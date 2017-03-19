@@ -2486,4 +2486,14 @@
     <Description>Load Removal is available. (By zoton2)</Description>
     <Website>https://github.com/zoton2/LiveSplit.Scripts</Website>
   </AutoSplitter>
+<AutoSplitter>
+   <Games>
+     <Game>Overgrowth</Game>
+   </Games>
+   <URLs>
+     <URL>https://raw.githubusercontent.com/ViliamVadocz/overgrowth/master/load-remover</URL>
+   </URLs>
+   <Type>Script</Type>
+   <Description>Load Removal is available. (By Viliam Vadocz)</Description>
+ </AutoSplitter>
 </AutoSplitters>
